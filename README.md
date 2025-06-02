@@ -31,11 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carloscisneroides&" alt="carloscisneroides" /></p>
 
-       - Elimina la llave SSH que se vinculó en el protocolo de bienvenida.
-       - Cierra sesión en tu cuenta de VS Code.
-       - Cierra sesión y elimina todo rastro tuyo en los navegadores Firefox y Chrome.
-       - Elimina todo archivo de la carpeta de Descargas.
-       - Elimina toda tu información del archivo ```~/.gitconfig```
-       - Elimina el historial de comandos de la terminal.
-       - Programa el computador para apagarse en 10 segundos.
-       - Jarvis se autodestruye. 
+       
